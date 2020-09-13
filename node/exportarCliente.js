@@ -1,1 +1,0 @@
-const exporetar = require('./exportar')
