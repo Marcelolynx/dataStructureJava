@@ -25,7 +25,7 @@
  }
 
 
- function getAdress() {
+ function getAddress() {
 
  }
 
